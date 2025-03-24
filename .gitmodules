@@ -1,0 +1,6 @@
+[submodule "SDL"]
+	path = SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "wxWidgets"]
+	path = wxWidgets
+	url = https://github.com/wxwidgets/wxWidgets
